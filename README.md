@@ -1,10 +1,6 @@
-# Clean Blog Hexo
+# My Hexo theme
 
-![](http://www.codeblocq.com/img/hexo-theme-thumbnail/CleanBlog.png)
-
-Hexo implementation of [Clean Blog](http://blackrockdigital.github.io/startbootstrap-clean-blog/index.html)
-
-Clean blog is a full featured, responsive Hexo theme. [Demo here](http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/).
+Modification of [Clean blog] (http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/).
 
 ## Features
 
@@ -183,7 +179,7 @@ subtitle: Standard Excerpts are not supported in Clean Blog but you can use subt
 
 ## Creator
 
-This theme was created by [Blackrock Digital](https://github.com/BlackrockDigital) and adapted for Hexo by [Jonathan Klughertz](http://www.codeblocq.com/).
+This theme was modified from Clean Blog by [Blackrock Digital](https://github.com/BlackrockDigital), which was adapted for Hexo by [Jonathan Klughertz](http://www.codeblocq.com/).
 
 ## License
 
