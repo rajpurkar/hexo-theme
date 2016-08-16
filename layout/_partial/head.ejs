@@ -56,6 +56,10 @@
         <meta name="twitter:site" content="<%= theme.twitter_handle %>>" />
     <% } %>
 
+    <% if(theme.favicon) { %>
+        <link rel="icon" type="image/png" href="<%= url_for(theme.favicon) %>">
+    <% } %>
+
     <!-- Title -->
     <%
     var title = [];

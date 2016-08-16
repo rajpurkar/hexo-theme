@@ -10,6 +10,8 @@ menu:
 # Title on top left of menu. Leave empty to use main blog title
 menu_title:
 
+favicon: /img/favicon.png
+
 # URL of the Home page image
 index_cover: /img/bg.jpg
 # Default post title
